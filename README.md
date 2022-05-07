@@ -6,7 +6,7 @@
 
 > using react-markdown _formatted_ texted can be made like that in this README
 
-## [links](https://github.com/0gw0/markdown) can be added
+## [links](https://mark-down-site.netlify.app/) can be added
 
 ### text can be **bolded**
 
